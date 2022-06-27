@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hey there!");
+DateTime timenow = DateTime.Now;
+Console.WriteLine($"Now is {timenow:T}");
